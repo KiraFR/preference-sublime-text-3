@@ -1,0 +1,75 @@
+{
+	"auto_indent": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"default_line_ending": "Windows",
+	"detect_indentation": false,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*/node_modules/*",
+		".git/*",
+		"*/temp/*",
+		"*/tmp/*",
+		"package-lock.json",
+		"*.p3d",
+		"*.paa"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"dist",
+		".git",
+		"_Build/temp",
+		"_old*",
+		"_Edaly_3D_Samples",
+		"_Edaly_Pbo_Template"
+	],
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"paths":
+	{
+		"linux":
+		[
+		],
+		"osx":
+		[
+		],
+		"windows":
+		[
+		]
+	},
+	"show_encoding": true,
+	"show_line_endings": true,
+	"smart_indent": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"translate_spaces_to_tabs": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
